@@ -19,7 +19,7 @@ After clone, and `npm install`, you will need to create:
 ## .env
 
 ```.env
-MAIL_USER=mail@mysmtp.com
+MAIL_USER=mail@mydomain.com
 MAIL_PASS=#H3R3_my_PA$$!
 MAIL_FROM='"My Name" <me@myself.com>'
 MAIL_HOST='smtp.mydomain.com'
