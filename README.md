@@ -62,3 +62,9 @@ company,name,email,url,phone
 Company One,Owner One,one@company.com,https://mycompany.com,+17205774941
 Company Two,Owner Two,two@company.com,https://mycompany.com,+17205774941
 ```
+
+## run your script
+
+```sh
+node index.js
+```
