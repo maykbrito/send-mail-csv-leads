@@ -1,5 +1,8 @@
 # SEND MAIL TO LEADS WITH CSV DATA
 
+Using nodejs, nodemailer, fast-csv, dotenv
+
+---
 This will:
 
 1. Parse data from csv file with fast-csv
