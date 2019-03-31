@@ -1,3 +1,5 @@
 .env
 mail/template/template.js
 csv/data.csv
+node_modules/*
+package-lock.json
