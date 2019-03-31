@@ -1,0 +1,12 @@
+const template = {
+  to: `{!email}`,
+  subject: `Question about {!company}`,
+  text: `Hi {!name}!
+  
+  You can do your mail template here
+  
+  visit {!url}
+  call us: {!phone}`,
+};
+
+module.exports = template;
