@@ -10,7 +10,7 @@ This will:
 3. Send to recipient with nodemailer.
 
 ---
-After clone, you will need create:
+After clone, and `npm install`, you will need to create:
 
 - .env
 - mail/template/template.js
